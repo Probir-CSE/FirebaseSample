@@ -1,4 +1,4 @@
-# FirebaseSample
+# FirebaseSample with remote config for force update
 Sample app to explain the app update using Firebase remote config
 
 ![ScreenShot](https://droidmentor.com/wp-content/uploads/2018/10/Example.jpg)
